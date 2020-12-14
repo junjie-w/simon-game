@@ -1,3 +1,3 @@
 # simon-game
 
-##### simon game built with javascript and jQuery.
+##### Simon Game was built with javascript and jQuery.
